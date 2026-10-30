@@ -35,13 +35,15 @@ Another way is to open is through START icon of MATLAB Start ⇒ Simulink ⇒ Li
 14.	Analyze and record your inference.
 
 ## Observation Table
-
-<img width="667" height="291" alt="image" src="https://github.com/user-attachments/assets/3a8feaf2-add6-4d8c-b651-efc1a7ebbb91" />
+<img width="420" height="156" alt="image" src="https://github.com/user-attachments/assets/34a6e088-81d5-44fb-922f-bfcd89a949ff" />
 
 ## Output graph
+<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/1b686354-4092-4ccb-955b-3c86f32366d1" />
 
 
 ## Simulated Output waveform
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/0460d805-6e8d-4943-9542-cfc6c05cfdca" />
 
 
 ## RESULT.
+Torque Speed Characteristics of DC Series Motor is analysed and simulated
